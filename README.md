@@ -27,7 +27,7 @@ I focused on moving beyond theoretical backtesting to address real-world trading
 ### Performance Visualization
 ![Strategy Results](Results.png)
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language**: Python
 * **Library**: Scikit-Learn (Random Forest), Pandas, Numpy, Matplotlib，Yfinance
 * **Metrics**: Sharpe Ratio, Max Drawdown, Regime Probability
